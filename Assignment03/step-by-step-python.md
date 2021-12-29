@@ -310,7 +310,7 @@ the subscription for the `speedingviolations` topic.
 
 2. Open the file `FineCollectionService/fine_collection/__init__.py` in VS Code.
 
-3. Add a new method `subscribe` to the controller that will listen to the route `/dapr/dubscribe`:
+3. Add a new method `subscribe` to the controller that will listen to the route `/dapr/subscribe`:
 
    ```python
    @app.get("/dapr/subscribe")
@@ -368,3 +368,9 @@ TrafficControlService that sends messages.
    ```
 
 4. Test the services using the activities in Step 5 of this exercise.
+
+## Next assignment
+
+Make sure you stop all running processes and close all the terminal windows in VS Code before proceeding to the next assignment.
+
+Go to [assignment 4](../Assignment04/README.md).
