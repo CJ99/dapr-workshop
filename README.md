@@ -113,13 +113,13 @@ All scripts in the instructions are Powershell scripts. If you're working on a M
 The workshop has been tested with the following versions:
 
 | Attribute                   | Details |
-|-----------------------------|---------|
-| Dapr runtime version        | v1.5.1  |
-| Dapr CLI version            | v1.5.1  |
+| --------------------------- | ------- |
+| Dapr runtime version        | v1.6.0  |
+| Dapr CLI version            | v1.6.0  |
 | .NET version                | .NET 6  |
 | Java version                | Java 16 |
 | Python version              | 3.9.6   |
-| Dapr SDK for .NET version   | v1.5.0  |
+| Dapr SDK for .NET version   | v1.6.0  |
 | Dapr SDK for Java version   | v1.3.0  |
 | Dapr SDK for Python version | v1.3.0  |
 
@@ -198,6 +198,6 @@ Follow the instructions below to get started:
 If you want to learn more about Dapr after doing the workshop, you can read the book "Dapr for .NET developers" that was co-authored by the creators of this workshop. Although the book is targeted at .NET developers, it covers all the concepts and generic APIs of Dapr. So it should also be useful for developers that use a different technology stack.
 
 [Dowload the PDF](https://aka.ms/dapr-ebook)
-[Read it online](https://docs.microsoft.com/dotnet/architecture/dapr-for-net-developers/)
+[Read it online](https://docs.microsoft.com/dotnet/architecture/dapr-for-net-developers/?WT.mc_id=DT-MVP-5001823)
 
 ![Dapr for .NET Developers](img/dapr-for-net-devs-cover-thumb.png)
